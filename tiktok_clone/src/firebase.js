@@ -4,7 +4,7 @@ import firebase from 'firebase/compat/app';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBiuMe6l66Lc7hnqLRC_Sz1goTRLT8tRTM",
+  apiKey: "",
   authDomain: "tiktok-clone-c723c.firebaseapp.com",
   projectId: "tiktok-clone-c723c",
   storageBucket: "tiktok-clone-c723c.appspot.com",
